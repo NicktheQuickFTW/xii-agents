@@ -1,0 +1,3 @@
+[submodule "awesome-llm-apps"]
+	path = awesome-llm-apps
+	url = https://github.com/Shubhamsaboo/awesome-llm-apps.git
