@@ -1,0 +1,36 @@
+# Core Dependencies
+schedule>=1.2.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+requests>=2.31.0
+rich>=13.0.0
+
+# LLM Providers
+anthropic>=0.8.0
+openai>=1.0.0
+google-generativeai>=0.3.0
+
+# Database
+duckdb>=0.9.0
+sqlite3>=3.35.0
+supabase>=2.0.0
+
+# Data Processing
+polars>=0.19.0
+pandas>=2.0.0
+jq>=1.6.0
+
+# Memory and Search
+chromadb>=0.4.0
+ripgrep>=0.10.0
+
+# Utilities
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+beautifulsoup4>=4.12.0
+scikit-learn>=1.3.0
+
+# Development
+black>=23.0.0
+pytest>=7.0.0
+mypy>=1.0.0 

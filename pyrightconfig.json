@@ -1,0 +1,24 @@
+{
+    "reportMissingImports": "error",
+    "pythonVersion": "3.8",
+    "venvPath": ".",
+    "venv": "venv",
+    "include": [
+        "**/*.py"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "**/venv",
+        "**/.git"
+    ],
+    "typeCheckingMode": "basic",
+    "useLibraryCodeForTypes": true,
+    "reportMissingTypeStubs": "warning",
+    "extraPaths": [
+        "venv/lib/python3.8/site-packages"
+    ],
+    "ignore": [
+        "schedule"
+    ]
+} 

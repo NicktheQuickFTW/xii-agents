@@ -1,0 +1,16 @@
+2025-04-04 00:34:28,371 - agent.transfer_portal - WARNING - Memory store not available, agent will not persist memory
+2025-04-04 00:34:28,371 - agent.transfer_portal - INFO - Running transfer portal agent with options: {'force_refresh': False}
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Refreshing transfer portal data
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Fetching data from on3 for football
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Got 19 players from on3 for football
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Fetching data from on3 for basketball
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Got 18 players from on3 for basketball
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Fetching data from 247sports for football
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Got 34 players from 247sports for football
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Fetching data from 247sports for basketball
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Got 27 players from 247sports for basketball
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Fetching data from rivals for football
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Got 18 players from rivals for football
+2025-04-04 00:34:28,372 - agent.transfer_portal - INFO - Fetching data from rivals for basketball
+2025-04-04 00:34:28,373 - agent.transfer_portal - INFO - Got 15 players from rivals for basketball
+2025-04-04 00:34:28,380 - agent.transfer_portal - INFO - Transfer portal agent completed run
